@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "4db27a5fb57c9e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d07e48e9507fa52",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ML/ML ANKI.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c69a83cdc203866",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2790337e9479f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4531c54a957eed0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "272bb4c6285c574b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "4ef8ddd9a638618e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf26bf19f52431d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906af340dd86c42e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/ML ANKI.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c37a9a1fa0d144f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a95be52df560c783",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1c801b30a0dc022",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "afbd6d560a35ab5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/ML ANKI.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d07e48e9507fa52",
+  "lastOpenFiles": [
+    "ML/ML ANKI.md",
+    "Scipy_Lectures/Scipy Lectures.md",
+    "ML/Stats for ML.md",
+    "Pasted image 20210417171221.png",
+    "GIT/GIT_ANKI.md",
+    "ML/D204 1.md",
+    "GIT/GIT_IMG/Pasted image 20210415132010.png",
+    "Pasted image 20210415132010.png",
+    "Pasted image 20210415131918.png",
+    "Untitled.md"
+  ]
+}
