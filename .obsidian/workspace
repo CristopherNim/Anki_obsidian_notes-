@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GIT/GIT_ANKI.md",
+            "file": "ML/tutorial.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GIT/GIT_ANKI.md",
+                "file": "ML/tutorial.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GIT/GIT_ANKI.md"
+                "file": "ML/tutorial.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "ML/tutorial.md",
+    "ML/Stats for ML.md",
     "GIT/GIT_ANKI.md",
     "Pasted image 20210418154434.png",
     "ML/ML ANKI.md",
     "Scipy_Lectures/Scipy Lectures.md",
-    "ML/Stats for ML.md",
     "Pasted image 20210417171221.png",
     "ML/D204 1.md",
     "GIT/GIT_IMG/Pasted image 20210415132010.png",
-    "Pasted image 20210415132010.png",
-    "Pasted image 20210415131918.png"
+    "Pasted image 20210415132010.png"
   ]
 }
