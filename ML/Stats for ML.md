@@ -104,3 +104,71 @@ Automatic Outlier Detection #flashcard
 ![[Pasted image 20210417170448.png]]
 [4 Automatic Outlier Detection Algorithms in Python](https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/)
 <!--ID: 1618693746934-->
+
+Type 1 error vs type 2 error #flashcard 
+![[Pasted image 20210418173352.png]]
+# Type 1 error is mistakenly concluding an affect is real when is not
+# type 2 error mistakenly concluding something is not real when it is real. An outlier is real Oh No.
+<!--ID: 1618781701541-->
+
+
+alpha meaning in stats #flashcard 
+The probability of usual outcomes that surpass significant data
+<!--ID: 1618781740947-->
+
+
+P Value #flashcard 
+- A p-value less than 0.05 (typically ≤ 0.05) is statistically significant. It indicates strong evidence against the null hypothesis, as there is less than a 5% probability the null is correct (and the results are random). Therefore, we reject the null hypothesis, and accept the alternative hypothesis.
+However, this does not mean that there is a 95% probability that the research hypothesis is true. The p-value is conditional upon the null hypothesis being true is unrelated to the truth or falsity of the research hypothesis.
+- A p-value higher than 0.05 (> 0.05) is not statistically significant and indicates strong evidence for the null hypothesis. This means we retain the null hypothesis and reject the alternative hypothesis. You should note that you cannot accept the null hypothesis, we can only reject the null or fail to reject it.
+- A statistically significant result cannot prove that a research hypothesis is correct (as this implies 100% certainty).
+- Instead, we may state our results “provide support for” or “give evidence for” our research hypothesis (as there is still a slight probability that the results occurred by chance and the null hypothesis was correct – e.g. less than 5%).
+<!--ID: 1618781836822-->
+
+
+exhaustive Permutation #flashcard 
+In an exhaustive permutation test, instead of just randomly shuffling and dividing the data, we actually figure out all the possible ways it could be divided. This is practical only for relatively small sample sizes. With a large number of repeated shuffling, the random permutation test results approximate those of the exhaustive permutation test, and approach them in the limit. Exhaustive permutation tests are also sometimes called exact tests, due to their statistical property of guaranteeing that the null model will not test as “significant” more than the alpha level of the test
+<!--ID: 1618781942792-->
+
+Permutation test #flashcard 
+- combining two samples or more  together and randomly reallocation the observation samples
+<!--ID: 1618781958341-->
+
+resampling-  #flashcard 
+drawing additional samples from an observed data set
+<!--ID: 1618781980245-->
+
+
+weighted meann  #flashcard 
+- A mean where some values contribute more than others
+Some values are intrinsically more variable than others, and highly variable observations are given a lower weight. For example, if we are taking the average from multiple sensors and one of the sensors is less accurate, then we might downweight the data from that sensor.
+[Math_is_fun](https://www.mathsisfun.com/data/weighted-mean.html)
+<!--ID: 1618782155385-->
+
+Spatial data #flashcard 
+location/coordinates 
+<!--ID: 1618782207387-->
+
+Standard deviation #flashcard 
+- Standard Deviationσ=√21704 =147.32... =147 (to the nearest mm)
+ -And the good thing about the Standard Deviation is that it is useful. Now we can show which heights are within one Standard Deviation (147mm) of the Mean:
+- So, using the Standard Deviation we have a "standard" way of knowing what is normal, and what is extra large or extra small.
+- Rottweilers are tall dogs. And Dachshunds are a bit short, right?
+ ![[Pasted image 20210418174540.png]]
+<!--ID: 1618782344210-->
+
+Mean absolute deviation #flashcard 
+![[Pasted image 20210418174616.png]]
+![[Pasted image 20210418174741.png]]
+<!--ID: 1618782578884-->
+
+
+Median absolute deviation from the median #flashcard 
+![[Pasted image 20210418175005.png]]
+<!--ID: 1618782617256-->
+
+Interquartile Rangee #flashcard 
+![[Pasted image 20210418175110.png]]
+<!--ID: 1618782684428-->
+
+Contig
