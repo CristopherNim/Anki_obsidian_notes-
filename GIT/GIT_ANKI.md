@@ -58,15 +58,15 @@ cd #flashcard
 Change Directory
 <!--ID: 1618774607117-->
 
-~ #flashcard 
+cd ~ #flashcard 
 takes you to the home directory 
 <!--ID: 1618774627738-->
 
-.. #flashcard 
+cd .. #flashcard 
 up one directory 
 <!--ID: 1618774658018-->
 
-dash- #flashcard 
+cd git stdash- #flashcard 
 previous working directory 
 <!--ID: 1618774681592-->
 
