@@ -171,4 +171,66 @@ Interquartile Rangee #flashcard
 ![[Pasted image 20210418175110.png]]
 <!--ID: 1618782684428-->
 
-Contig
+Contingency table #flashcard 
+![[Pasted image 20210418175312.png]]
+<!--ID: 1618782795187-->
+
+Hexagonal vs Contour Plot #flashcard 
+![[Pasted image 20210418175354.png]]
+[Article on hexagonal binning](https://www.meccanismocomplesso.org/en/hexagonal-binning-a-new-method-of-visualization-for-data-analysis/)
+<!--ID: 1618782934075-->
+
+what does it mean to standardize values #flashcard 
+subtract the mean and divide by the standard deviation
+<!--ID: 1618783136213-->
+
+
+Exponential distribution #flashcard 
+the frequency distribution of the time or distance from one event to the next event
+<!--ID: 1618783137531-->
+
+Weibull distribution #flashcard 
+A generalized version of the exponential distribution in which the event rate is allowed to shift over time
+<!--ID: 1618783161113-->
+
+Stratified sampling #flashcard 
+dividing the data into samples
+<!--ID: 1618783211708-->
+
+Stratum #flashcard 
+a homogeneous subgroups of a population with common characteristics
+<!--ID: 1618783227637-->
+
+Regression to mean #flashcard 
+	eventually the higher values will fall back down to earth. The rookie of the year will fall back to the pack
+<!--ID: 1618783247383-->
+
+sample statistic #flashcard 
+	a metric calculated for a sample of data drawn from larger population
+<!--ID: 1618783305584-->
+
+
+Central limit theorem #flashcard 
+	the tendency of the sample distribution to take on a normal shape as sample size rises
+		all of the samples will eventually represetnt the bell curve provided the sample is large enough 
+<!--ID: 1618783305628-->
+
+
+Bootstrap sample #flashcard 
+a sample taken with replacement from an observed data set 
+<!--ID: 1618783305669-->
+
+
+resampling #flashcard 
+		the process of taking repeated samples from observed data. includes both boot-stap and permutation (shuffling)  procedures 
+<!--ID: 1618783305708-->
+
+Basic Bootstrap theory #flashcard 
+![[Pasted image 20210418180300.png]]
+<!--ID: 1618783383560-->
+
+PMF, PDF, CDF #flashcard 
+[study functions](https://medium.com/analytics-vidhya/pdf-pmf-and-cdf-in-machine-learning-225b41242abe)
+<!--ID: 1618783533775-->
+
+
