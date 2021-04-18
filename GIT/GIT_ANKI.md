@@ -2,6 +2,7 @@ TARGET DECK: GIT
 
 Git Clone #flashcard 
 ![[Pasted image 20210415131918.png]]
+# git clone html (optional nickname)
 <!--ID: 1618507167800-->
 
 Git Branch #flashcard 
@@ -43,5 +44,47 @@ Git revert #flashcard
 Git Merge #flashcard 
 ![[Pasted image 20210415132615.png]]
 <!--ID: 1618507578407-->
+
+
+pwd #flashcard 
+Prints working directory 
+<!--ID: 1618774549826-->
+
+ls #flashcard 
+list files in the current directory
+<!--ID: 1618774566542-->
+
+cd #flashcard 
+Change Directory
+<!--ID: 1618774607117-->
+
+~ #flashcard 
+takes you to the home directory 
+<!--ID: 1618774627738-->
+
+.. #flashcard 
+up one directory 
+<!--ID: 1618774658018-->
+
+dash- #flashcard 
+previous working directory 
+<!--ID: 1618774681592-->
+
+mkdir #flashcard 
+makes a directory (folder )
+<!--ID: 1618774718237-->
+
+git config --list #flashcard 
+![[Pasted image 20210418154434.png]]
+<!--ID: 1618775077508-->
+
+What to do first when send a local folder to GitHub #flashcard 
+git init -- To create .git sub directory 
+git add *.c
+git add LICENSE
+git commit -m 'initial project version
+<!--ID: 1618775965615-->
+
+
 
 
