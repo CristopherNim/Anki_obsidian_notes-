@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Storytelling with data/Storytelling_with_Data_anki.md",
+            "file": "GIT/GIT_ANKI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storytelling with data/Storytelling_with_Data_anki.md",
+                "file": "GIT/GIT_ANKI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storytelling with data/Storytelling_with_Data_anki.md"
+                "file": "GIT/GIT_ANKI.md"
               }
             }
           }
@@ -126,10 +126,10 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "GIT/GIT_ANKI.md",
     "Untitled.md",
     "ML/Stats for ML.md",
     "ML/tutorial.md",
-    "GIT/GIT_ANKI.md",
     "Pasted image 20210418154434.png",
     "ML/ML ANKI.md",
     "Scipy_Lectures/Scipy Lectures.md",

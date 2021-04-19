@@ -1,4 +1,4 @@
-TARGET DECK: GIT 
+gitTARGET DECK: GIT 
 
 Git Clone #flashcard 
 ![[Pasted image 20210415131918.png]]
