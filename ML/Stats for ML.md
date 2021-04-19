@@ -151,7 +151,7 @@ location/coordinates
 
 Standard deviation #flashcard 
 - Standard Deviationσ=√21704 =147.32... =147 (to the nearest mm)
- -And the good thing about the Standard Deviation is that it is useful. Now we can show which heights are within one Standard Deviation (147mm) of the Mean:
+ -And the good thing about the Standard Deviation is that it is useful. Now we can show which heights are within one Standard Deviation (147mm) of the ==**Mean**==¬  :
 - So, using the Standard Deviation we have a "standard" way of knowing what is normal, and what is extra large or extra small.
 - Rottweilers are tall dogs. And Dachshunds are a bit short, right?
  ![[Pasted image 20210418174540.png]]
@@ -191,6 +191,7 @@ the frequency distribution of the time or distance from one event to the next ev
 
 Weibull distribution #flashcard 
 A generalized version of the exponential distribution in which the event rate is allowed to shift over time
+![[Pasted image 20210419150856.png]]
 <!--ID: 1618783161113-->
 
 Stratified sampling #flashcard 
