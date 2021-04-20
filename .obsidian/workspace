@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/Stats for ML.md",
+            "file": "Scipy_Lectures/Scipy Lectures.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Stats for ML.md",
+                "file": "Scipy_Lectures/Scipy Lectures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Stats for ML.md"
+                "file": "Scipy_Lectures/Scipy Lectures.md"
               }
             }
           }
@@ -126,13 +126,13 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Scipy_Lectures/Scipy Lectures.md",
     "ML/Stats for ML.md",
     "GIT/GIT_ANKI.md",
     "Untitled.md",
     "ML/tutorial.md",
     "Pasted image 20210418154434.png",
     "ML/ML ANKI.md",
-    "Scipy_Lectures/Scipy Lectures.md",
     "Pasted image 20210417171221.png",
     "ML/D204 1.md",
     "GIT/GIT_IMG/Pasted image 20210415132010.png"
