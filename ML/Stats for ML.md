@@ -132,6 +132,7 @@ In an exhaustive permutation test, instead of just randomly shuffling and dividi
 
 Permutation test #flashcard 
 - combining two samples or more  together and randomly reallocation the observation samples
+- A permutation test (also called a randomization test, re-randomization test, or an exact test) is a type of statistical significance test in which the distribution of the test statistic under the null hypothesis is obtained by calculating all possible values of the test statistic under all possible rearrangements of the observed data points. In other words, the method by which treatments are allocated to subjects in an experimental design is mirrored in the analysis of that design. If the labels are exchangeable under the null hypothesis, then the resulting tests yield exact significance levels; see also exchangeability. Confidence intervals can then be derived from the tests. The theory has evolved from the works of Ronald Fisher and E. J. G. Pitman in the 1930s.
 <!--ID: 1618781958341-->
 
 resampling-  #flashcard 
@@ -188,6 +189,7 @@ subtract the mean and divide by the standard deviation
 
 Exponential distribution #flashcard 
 the frequency distribution of the time or distance from one event to the next event
+![[Pasted image 20210421140243.png]]
 <!--ID: 1618783137531-->
 
 Weibull distribution #flashcard 
@@ -197,6 +199,8 @@ A generalized version of the exponential distribution in which the event rate is
 
 Stratified sampling #flashcard 
 dividing the data into samples
+![[Pasted image 20210421135448.png]]
+![[Pasted image 20210421135502.png]]
 <!--ID: 1618783211708-->
 
 Stratum #flashcard 
@@ -220,12 +224,13 @@ Central limit theorem #flashcard
 
 Bootstrap sample #flashcard 
 a sample taken with replacement from an observed data set 
+![[Pasted image 20210421135333.png]]
 <!--ID: 1618783305669-->
 
 
 resampling #flashcard 
 		the process of taking repeated samples from observed data. includes both boot-stap and permutation (shuffling)  procedures 
-		![[Pasted image 20210421134846.png]] 
+		![[Pasted image 20210421135622.png]]
 <!--ID: 1618783305708-->
 
 Basic Bootstrap theory #flashcard 
