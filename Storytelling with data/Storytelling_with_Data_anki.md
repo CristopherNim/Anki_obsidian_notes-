@@ -116,3 +116,17 @@ Alternative to pie graphs #flashcard
 ![[Pasted image 20210418183732.png]]
 <!--ID: 1618785453696-->
 
+Designing a dashboard #flashcard 
+# 1. Understand the context
+![[Pasted image 20210421174601.png]]
+# 2. Choose the right data 
+![[Pasted image 20210421174652.png]]
+# 3. Choose effective visuals 
+![[Pasted image 20210421174719.png]]
+# 4. Eliminate clutter 
+![[Pasted image 20210421174756.png]]
+# 5. Focus attention 
+![[Pasted image 20210421174819.png]]
+#  6. Tell a Story 
+![[Pasted image 20210421174853.png]]
+<!--ID: 1619041758629-->
