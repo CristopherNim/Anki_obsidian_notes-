@@ -136,6 +136,7 @@ Permutation test #flashcard
 
 resampling-  #flashcard 
 drawing additional samples from an observed data set
+![[Pasted image 20210421134807.png]]
 <!--ID: 1618781980245-->
 
 
@@ -224,6 +225,7 @@ a sample taken with replacement from an observed data set
 
 resampling #flashcard 
 		the process of taking repeated samples from observed data. includes both boot-stap and permutation (shuffling)  procedures 
+		![[Pasted image 20210421134846.png]] 
 <!--ID: 1618783305708-->
 
 Basic Bootstrap theory #flashcard 

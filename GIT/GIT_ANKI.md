@@ -1,4 +1,4 @@
-gitTARGET DECK: GIT 
+TARGET DECK: GIT 
 
 Git Clone #flashcard 
 ![[Pasted image 20210415131918.png]]
@@ -66,7 +66,7 @@ cd .. #flashcard
 up one directory 
 <!--ID: 1618774658018-->
 
-cd git stdash- #flashcard 
+cd  d- #flashcard 
 previous working directory 
 <!--ID: 1618774681592-->
 
