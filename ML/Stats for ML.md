@@ -123,6 +123,7 @@ However, this does not mean that there is a 95% probability that the research hy
 - A p-value higher than 0.05 (> 0.05) is not statistically significant and indicates strong evidence for the null hypothesis. This means we retain the null hypothesis and reject the alternative hypothesis. You should note that you cannot accept the null hypothesis, we can only reject the null or fail to reject it.
 - A statistically significant result cannot prove that a research hypothesis is correct (as this implies 100% certainty).
 - Instead, we may state our results “provide support for” or “give evidence for” our research hypothesis (as there is still a slight probability that the results occurred by chance and the null hypothesis was correct – e.g. less than 5%).
+![[Pasted image 20210422124452.png]]
 <!--ID: 1618781836822-->
 
 
