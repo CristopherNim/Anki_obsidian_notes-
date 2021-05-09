@@ -51,4 +51,6 @@ Secondary components are optional but will enhance the roadmap in important ways
 
 ==The best roadmaps don’t obscure the core message with a lot of extraneous detail, but home in on the additional context most important to particular stakeholders.==
 
+![[Pasted image 20210509164655.png]]
+![[Pasted image 20210509164713.png]]
 
