@@ -54,3 +54,67 @@ Secondary components are optional but will enhance the roadmap in important ways
 ![[Pasted image 20210509164655.png]]
 ![[Pasted image 20210509164713.png]]
 
+# gathering inputs 
+
+- “The goal of gathering inputs is to make sure you have all of the relevant information and context you need to make good product decisions.
+- Without a constant refresh of that context, you’ll risk making too many assumptions and mistakes. As part of this process you’ll likely have lots of discussions and negotiations with your stakeholders.”
+- Product lifecycle 
+	- New
+		- “ Your roadmap in this phase of the life cycle should be used to outline and drive the creation of the first version of your product.
+		- With a new product, you are venturing into uncharted territory. This means you will have to make a lot of assumptions, and then rapidly prototype and test to get validation and answers. That validation, or lack thereof, will ultimately impact what themes or features make it onto your roadmap.
+	- Growth
+		- The second phase in the life cycle is scaling an existing product. This means getting it to as many customers as possible. For example, when R. Colin Kennedy was Product Manager at Sonos, the objective for the year was to get as many product (speaker) installations as possible
+	- Expansion 
+		- “ When Kayak started, it did one simple thing: it allowed users to search for flights across multiple airlines at the same time, filter options, and compare costs. Once Kayak established itself in the market, it realized this format would also work for hotels and cars
+	- Harvesting
+		- “The fourth life-cycle phase we want to mention is the “cash cow product” that simply needs to be maintained 
+	- End of life - monitoring how the project is doing 
+
+### Gathering inputs from your customers 
+ - understand who your customer are
+### customers roles 
+- “user roles focus on jobs and functions. In other words, a user role describes the primary action taken by a particular user. 
+- “you must get out of the building and interact with them directly to understand what they’re thinking, feeling, seeing, hearing, saying, and doing”
+
+# contribute 
+Customers
+Get excited about how they will benefit in the Provide feedback on value and priorities future
+
+Executives
+Understand how resources are being used and Provide strategic context for product direction and potential ROI
+priorities
+
+Sales
+Be ready to respond to questions about future
+Provide feedback on what will make prospects buy
+product direction from customers and prospects
+and customers renew”
+
+“Marketing & PR
+Prepare for launch and promotion of future”
+Provide feedback on what will get the attention of
+products or features the target market
+
+Customer
+
+Be ready to respond to customer inquiries about
+
+Provide feedback on the top reasons for support
+
+Support
+
+bugs, usability issues, or future features
+
+calls
+
+Research
+
+Plan research projects to support future roadmap Provide information about the market and users to themes
+
+inform themes and priorities
+
+Other Product
+
+Sync their technical approach and release
+
+Sync your technical approach and release schedule
