@@ -217,4 +217,4 @@ Video
 ![[Pasted image 20210510165246.png]]
 ![[Pasted image 20210510165728.png]]
 ![[Pasted image 20210510165820.png]]
-![[Pasted image 20210510165914.png]]
+![[Pasted image 20210510165914.png]]ø
