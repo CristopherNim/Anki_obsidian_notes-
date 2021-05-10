@@ -160,3 +160,15 @@ what can you do for the customers
 
 ### product vision - why your products exists 
 
+### OKR (business objectives and key results)
+**only 3 to 5 OKR are needed**
+- Everything on the roadmap must be tied to at least one of your objectives.
+- Stick to a manageable number of objectives; from our experience and research, fewer than five seems to be most effective
+- Focus on outcomes and not outputs 
+![[Pasted image 20210509215405.png]]
+![[Pasted image 20210509215418.png]]
+![[Pasted image 20210509215435.png]]
+![[Pasted image 20210509215500.png]]
+![[Pasted image 20210509215511.png]]
+“Each of these themes is tied to an objective that can then be measured by specific key results, and their roadmap reflects this.
+![[Pasted image 20210509215859.png]]
