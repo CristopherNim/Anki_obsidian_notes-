@@ -172,3 +172,44 @@ what can you do for the customers
 ![[Pasted image 20210509215511.png]]
 “Each of these themes is tied to an objective that can then be measured by specific key results, and their roadmap reflects this.
 ![[Pasted image 20210509215859.png]]
+![[Pasted image 20210509221048.png]]
+# chapter 5
+“A theme is a high-level customer need. A subtheme is a more specific need. Themes can stand on their own”
+
+“Theme: Address key usability issues
+Subtheme: Pagination
+Subtheme: Menu navigation
+Subtheme: Save status
+
+Theme: 
+Indestructibility
+Subtheme: No kinks
+Subtheme: No leaks 
+
+![[Pasted image 20210509222335.png]]
+
+Page 173
+
+
+_____
+Video
+![[Pasted image 20210510161521.png]]
+![[Pasted image 20210510161639.png]]
+![[Pasted image 20210510161843.png]]
+# What game you are playing and how do you keep score
+![[Pasted image 20210510162044.png]]
+![[Pasted image 20210510162256.png]]
+![[Pasted image 20210510162430.png]]
+![[Pasted image 20210510162536.png]]
+![[Pasted image 20210510162716.png]]
+![[Pasted image 20210510162824.png]]
+![[Pasted image 20210510162927.png]]
+![[Pasted image 20210510163015.png]]
+![[Pasted image 20210510163205.png]]
+![[Pasted image 20210510163417.png]]
+![[Pasted image 20210510163436.png]]
+![[Pasted image 20210510163517.png]]
+![[Pasted image 20210510163558.png]]
+![[Pasted image 20210510163632.png]]
+![[Pasted image 20210510163710.png]]
+![[Pasted image 20210510163734.png]]
