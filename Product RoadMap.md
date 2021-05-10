@@ -96,25 +96,67 @@ Provide feedback on what will get the attention of
 products or features the target market
 
 Customer
-
 Be ready to respond to customer inquiries about
-
 Provide feedback on the top reasons for support
 
 Support
-
-bugs, usability issues, or future features
-
-calls
+bugs, usability issues, or future features calls 
 
 Research
-
 Plan research projects to support future roadmap Provide information about the market and users to themes
-
 inform themes and priorities
 
 Other Product
-
 Sync their technical approach and release
-
 Sync your technical approach and release schedule
+
+Operations
+Understand future infrastructure, tooling, plant,
+Provide insight into infrastructure, tooling, plant,
+
+Production
+personnel, and other scaling needs
+personnel, and other costs of proposed roadmap
+
+Purchasing, HR
+items
+
+Finance
+Understand planned spending and expected ROI
+Provide feedback on available budget and ROI
+targets
+
+Vendors
+Plan for timing and volume of required
+Provide feedback on capacity and performance
+
+Technology
+components & supplies, performance specs
+specs, provide insight into new materials and
+
+Partners
+technologies
+
+Channel Partners 
+Plan assortment, pricing, promotion, training & Provide feedback on what will likely sell, timing, Distribution pricing and co marketing 
+
+Data analyst 
+data science 
+Return on investment (ROI)
+Objective and key results (OKR)
+# chapter 4 
+### The mission - the purpose (must be achievable)
+what can you do for the customers
+
+### Vision is the outcome you seek
+ - long term goals 
+ - who wants this
+ - why would they need this 
+ - how is the product unique 
+ - must make the customer feel like they belong 
+	 - I want to lease something in order to feel like I belong in this store 
+
+### values are your compass
+
+### product vision - why your products exists 
+
