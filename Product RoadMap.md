@@ -197,6 +197,7 @@ Video
 ![[Pasted image 20210510161639.png]]
 ![[Pasted image 20210510161843.png]]
 # What game you are playing and how do you keep score
+![[Pasted image 20210511184449.png]]
 ![[Pasted image 20210510162044.png]]
 ![[Pasted image 20210510162256.png]]
 ![[Pasted image 20210510162430.png]]
