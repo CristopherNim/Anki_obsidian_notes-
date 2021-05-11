@@ -1,3 +1,20 @@
+### make the impossible seemed possible
+A functional requirement defines a system or its component whereas a non-functional requirement defines the performance attribute of a software system. ... Types of Non-functional requirement are Scalability Capacity, Availability, Reliability, Recoverability, Data Integrity, et
+## Critical path
+- The critical path (or paths) is the longest path (in time) from Start to Finish; it indicates the minimum time necessary to complete the entire project.
+- “ However, this approach can also be helpful in prioritizing enhancements for an existing product or growth product.”
+## Kano 
+- Expected needs
+- Normal needs 
+- Exiciting needs 
+- 
+## use a score card to keep track of things 
+https://www.romanpichler.com/blog/10-tips-for-product-key-performance-indicators-kpis/#:~:text=Product%20key%20performance%20indicators%20(KPIs,how%20your%20product%20is%20performing.
+
+![[Pasted image 20210511195200.png]]
+
+
+
 ![[Pasted image 20210509110305.png]]
 
 Product vision 
@@ -218,4 +235,14 @@ Video
 ![[Pasted image 20210510165246.png]]
 ![[Pasted image 20210510165728.png]]
 ![[Pasted image 20210510165820.png]]
-![[Pasted image 20210510165914.png]]ø
+![[Pasted image 20210510165914.png]]
+
+### user stories (agile)
+- As a [user type]
+- I want [Desire]
+- So I can [results]
+
+### Job stories (jobs to be done)
+- when [situation/motivation]
+- I need [desire]
+- So I can [results]
