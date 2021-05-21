@@ -7,10 +7,9 @@
         "id": "3d07e48e9507fa52",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Product RoadMap.md",
-            "mode": "preview"
+            "file": "Project Roadmap/Img/Pasted image 20210510163710.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product RoadMap.md",
+                "file": "Project Roadmap/Img/Pasted image 20210510163710.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Product RoadMap.md"
+                "file": "Project Roadmap/Img/Pasted image 20210510163710.png"
               }
             }
           }
@@ -126,6 +125,8 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Pasted image 20210510163710.png",
+    "Pasted image 20210509110305.png",
     "Product RoadMap.md",
     "Untitled.md",
     "Pasted image 20210422124452.png",
@@ -133,8 +134,6 @@
     "ML/Stats for ML.md",
     "Storytelling with data/Storytelling_with_Data_anki.md",
     "GIT/GIT_ANKI.md",
-    "Scipy_Lectures/Scipy Lectures.md",
-    "ML/tutorial.md",
-    "Pasted image 20210418154434.png"
+    "Scipy_Lectures/Scipy Lectures.md"
   ]
 }
