@@ -7,9 +7,10 @@
         "id": "3d07e48e9507fa52",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Project Roadmap/Img/Pasted image 20210510163710.png"
+            "file": "FUTURE ANKI NOTES/Turn into anki NOtes.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Roadmap/Img/Pasted image 20210510163710.png",
+                "file": "FUTURE ANKI NOTES/Turn into anki NOtes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Roadmap/Img/Pasted image 20210510163710.png"
+                "file": "FUTURE ANKI NOTES/Turn into anki NOtes.md"
               }
             }
           }
@@ -125,15 +126,15 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Project Roadmap/Img/Pasted image 20210510163710.png",
     "Pasted image 20210510163710.png",
     "Pasted image 20210509110305.png",
     "Product RoadMap.md",
-    "Untitled.md",
     "Pasted image 20210422124452.png",
     "ML/ML ANKI.md",
     "ML/Stats for ML.md",
     "Storytelling with data/Storytelling_with_Data_anki.md",
-    "GIT/GIT_ANKI.md",
-    "Scipy_Lectures/Scipy Lectures.md"
+    "GIT/GIT_ANKI.md"
   ]
 }
