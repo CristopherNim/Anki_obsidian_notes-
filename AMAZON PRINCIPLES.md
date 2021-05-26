@@ -54,6 +54,6 @@ Leaders are obligated to respectfully challenge decisions when they disagree, ev
 
 
 Deliver Results #flashcard 
-Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.
+Leaders focus on the key inputs for their business and deliver them with the right quality and in a timely fashion. Despite setbacks, they rise to the occasion and never settle.	
 <!--ID: 1621979086282-->
 
