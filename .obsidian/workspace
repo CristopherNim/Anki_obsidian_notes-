@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Why Amazon.md",
-            "mode": "source"
+            "file": "Scipy_Lectures/Scipy Lectures.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why Amazon.md",
+                "file": "Scipy_Lectures/Scipy Lectures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why Amazon.md"
+                "file": "Scipy_Lectures/Scipy Lectures.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Scipy_Lectures/Scipy Lectures.md",
     "Why Amazon.md",
     "Untitled.md",
     "AMAZON PRINCIPLES.md",
@@ -134,7 +135,6 @@
     "Project Roadmap/Img/Pasted image 20210510163710.png",
     "Pasted image 20210510163710.png",
     "Pasted image 20210509110305.png",
-    "Product RoadMap.md",
-    "Pasted image 20210422124452.png"
+    "Product RoadMap.md"
   ]
 }
