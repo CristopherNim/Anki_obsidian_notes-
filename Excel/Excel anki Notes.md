@@ -21,6 +21,26 @@ How do you reference a cell, and what is the purpose of it #flashcard
 ### The purpose of referencing a cell is to drag the formula to other cells while maintaining the same cell. This is called absolute addressing or locking the row. 
 <!--ID: 1625684151861-->
 
+What does pemdas stand for #flashcard 
+Please excuse my dear aunt sally
+paranthesis exponents Mult div add subtra
+<!--ID: 1625684750059-->
 
+Demand curve #flashcard 
+[Demand Curve](https://www.economicshelp.org/blog/glossary/demand-curve-formula/) 
+![[Pasted image 20210707152225.png]]
+<!--ID: 1625685681960-->
 
+Supply curve #flashcard 
+The market supply curve shows the combined quantity supplied of goods at different prices. The market supply curve is the horizontal sum of all individual supply curves.
+[Supply curve](https://www.economicshelp.org/blog/glossary/supply-curve-equation/)
+<!--ID: 1625685939043-->
+
+Locking the column vs the number #flashcard 
+=$A3*B$2
+- In $A3, you lock the column coordinate because the formula should always multiply the original numbers in column A. The row coordinate is relative since it needs to change for other rows.
+- In B$2, you lock the row coordinate to tell Excel always to pick the multiplier in row 2. The column coordinate is relative because the multipliers are in 3 different columns and the formula should adjust accordingly.
+- As the result, all the calculations are performed with a single formula, which changes properly for each row and column where it is copied:
+![[Pasted image 20210707153114.png]]
+<!--ID: 1625686278322-->
 
