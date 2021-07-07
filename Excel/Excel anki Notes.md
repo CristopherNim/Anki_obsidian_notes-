@@ -49,3 +49,20 @@ MIN(RETURNS THE SMALLEST NUMBER)
 <!--ID: 1625687693806-->
 
 
+Benefits of using range instead of cell reference #flashcard 
+When you create Named Ranges in Excel, you can use these names instead of the cell references.
+- For example, you can use =SUM(SALES) instead of =SUM(C2:C11) for the above data set.
+- Have a look at ṭhe formulas listed below. Instead of using cell references, I have used the Named Ranges.
+	- Number of sales with value more than 500: =COUNTIF(Sales,”>500″)
+	-Sum of all the sales done by Tom: =SUMIF(SalesRep,”Tom”,Sales)
+	- Commission earned by Joe (sales by Joe multiplied by commission percentage): =SUMIF(SalesRep,”Joe”,Sales)*Commission
+<!--ID: 1625689328993-->
+
+What does this do ![[Pasted image 20210707162217.png]] #flashcard 
+It grabs the column name and makes it able to grab all the values. For example sum(all_column_B) 
+[Excel Link](https://trumpexcel.com/named-ranges-in-excel/)
+<!--ID: 1625689606852-->
+
+
+![[Pasted image 20210707163356.png]] how to grab the avg #flashcard 
+I would select command then 
