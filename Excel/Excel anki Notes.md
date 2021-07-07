@@ -44,3 +44,8 @@ Locking the column vs the number #flashcard
 ![[Pasted image 20210707153114.png]]
 <!--ID: 1625686278322-->
 
+What does the MIN() function do #flashcard 
+MIN(RETURNS THE SMALLEST NUMBER)
+<!--ID: 1625687693806-->
+
+
