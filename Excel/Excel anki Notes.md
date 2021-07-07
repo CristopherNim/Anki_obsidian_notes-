@@ -65,4 +65,11 @@ It grabs the column name and makes it able to grab all the values. For example s
 
 
 ![[Pasted image 20210707163356.png]] how to grab the avg #flashcard 
-I would select command then 
+I would select command then grab all the cells then name in the name box
+<!--ID: 1625690099046-->
+
+Steps to assigning names left instead of the col name #flashcard 
+Go to formula then select from selection finally click on the left 
+<!--ID: 1625690859956-->
+
+
