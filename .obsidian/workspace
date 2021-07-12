@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Excel/Excel anki Notes.md",
+            "file": "SQL/SQL ANKI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel/Excel anki Notes.md",
+                "file": "SQL/SQL ANKI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/Excel anki Notes.md"
+                "file": "SQL/SQL ANKI.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "SQL/SQL ANKI.md",
     "Excel/Excel anki Notes.md",
     "HTML/HTML ANKI.md",
     "Untitled.md",
@@ -134,7 +135,6 @@
     "AMAZON PRINCIPLES.md",
     "Scipy_Lectures/Scipy Lectures.md",
     "Flask/ANKI  FLASK.md",
-    "GIT/GIT_ANKI.md",
-    "Project Roadmap/Img/Pasted image 20210510163710.png"
+    "GIT/GIT_ANKI.md"
   ]
 }
