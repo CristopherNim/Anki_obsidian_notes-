@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SQL/SQL ANKI.md",
+            "file": "ML/ML ANKI.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQL ANKI.md",
+                "file": "ML/ML ANKI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQL ANKI.md"
+                "file": "ML/ML ANKI.md"
               }
             }
           }
@@ -126,6 +126,7 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "ML/ML ANKI.md",
     "SQL/SQL ANKI.md",
     "Excel/Excel anki Notes.md",
     "HTML/HTML ANKI.md",
@@ -134,7 +135,6 @@
     "FIU Project.md",
     "AMAZON PRINCIPLES.md",
     "Scipy_Lectures/Scipy Lectures.md",
-    "Flask/ANKI  FLASK.md",
-    "GIT/GIT_ANKI.md"
+    "Flask/ANKI  FLASK.md"
   ]
 }

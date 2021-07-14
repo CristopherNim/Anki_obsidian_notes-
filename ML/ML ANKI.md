@@ -211,3 +211,11 @@ ____
 winsorize([92, 19, 101, 58, 1053, 91, 26, 78, 10, 13, -40, 101, 86, 85, 15, 89, 89, 28, -5, 41], limits=[0.05, 0.05])
 <!--ID: 1618356872110-->
 
+feature extraction #flashcard 
+Feature Extraction aims to reduce the number of features in a dataset by creating new features from the existing ones (and then discarding the original features). These new reduced set of features should then be able to summarize most of the information contained in the original set of features. In this way, a summarised version of the original features can be created from a combination of the original set. (PCA, )
+<!--ID: 1626286123510-->
+
+Feature selection #flashcard 
+feature selection aims instead to rank the importance of the existing features in the dataset and discard less important ones (no new features are created). 
+![[Pasted image 20210714141144.png]]
+<!--ID: 1626286425527-->
