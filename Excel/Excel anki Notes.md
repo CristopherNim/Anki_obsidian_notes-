@@ -72,4 +72,14 @@ Steps to assigning names left instead of the col name #flashcard
 Go to formula then select from selection finally click on the left 
 <!--ID: 1625690859956-->
 
+what does average(B:B) do? #flashcard 
+AVERAGE(B:B) grabs all the columns in B and averages them, but it causes circular references ![[Pasted image 20210726192414.png]]
+<!--ID: 1627341858271-->
 
+how to reference a name from different sheets if the columns have the same name #flashcard 
+=SUM(Sheet2!jam)
+<!--ID: 1627342456221-->
+
+What is the shortcut to finding a list of all the range names #flashcard 
+fn + f3 will give you a list of the special range names
+<!--ID: 1627342922151-->

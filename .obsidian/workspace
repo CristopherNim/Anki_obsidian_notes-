@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ML/ML ANKI.md",
+            "file": "Excel/Excel anki Notes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/ML ANKI.md",
+                "file": "Excel/Excel anki Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/ML ANKI.md"
+                "file": "Excel/Excel anki Notes.md"
               }
             }
           }
@@ -126,9 +126,9 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Excel/Excel anki Notes.md",
     "ML/ML ANKI.md",
     "SQL/SQL ANKI.md",
-    "Excel/Excel anki Notes.md",
     "HTML/HTML ANKI.md",
     "Untitled.md",
     "Why Amazon.md",
