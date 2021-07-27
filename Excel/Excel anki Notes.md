@@ -101,3 +101,22 @@ What does the @ do in excel #flashcard
  - For example, when averaging the last 5 make sure you the @ to make sure it starts the average from that very row.
  - ![[Pasted image 20210727162823.png]]
 <!--ID: 1627416422885-->
+
+VLookup syntax #flashcard 
+brackets indicate optional arguments
+Vlookup(lookup_value, table_range, column_index, [range_lookups])
+# column index 1-col_A, index 2 Col_b etc etc
+![[Pasted image 20210727193411.png]]
+<!--ID: 1627428772237-->
+
+Lookup best uses and definition #flashcard 
+![[Pasted image 20210727193333.png]]
+<!--ID: 1627428815965-->
+
+describe false in lookup functions #flashcard 
+For example, if you put true it will return a value close to lookup value inputted.
+If the value is set to false, and the value is not an exact match in the column it will return N/A. 
+![[Pasted image 20210727194822.png]]
+<!--ID: 1627429703534-->
+
+
