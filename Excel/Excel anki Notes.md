@@ -83,3 +83,21 @@ how to reference a name from different sheets if the columns have the same name 
 What is the shortcut to finding a list of all the range names #flashcard 
 fn + f3 will give you a list of the special range names
 <!--ID: 1627342922151-->
+
+How to create a cell references that uses the values from above #flashcard 
+![[Pasted image 20210726204903.png]]
+#### create a data range then referring to the value above from the value that you want to use. 
+<!--ID: 1627347264878-->
+
+Range data #flashcard 
+- You cannot use cell references as names for range data names. For example, you cannot use 3Q.
+- only symbols like periods and underscored are allowed.
+- make sure data range names make sense to other people and do not put random letters that do not make sense. 
+<!--ID: 1627347463367-->
+
+What does the @ do in excel #flashcard 
+ - The at symbol is used to shorten formulas inside named tables referencing cells in the same row.
+ - to reference the values on the same row for shorten name formulas
+ - For example, when averaging the last 5 make sure you the @ to make sure it starts the average from that very row.
+ - ![[Pasted image 20210727162823.png]]
+<!--ID: 1627416422885-->
