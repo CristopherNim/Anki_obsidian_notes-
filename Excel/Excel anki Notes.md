@@ -126,4 +126,11 @@ What to do when the column is not in ascending order when using the vlookup- #fl
 # when you omit the fourth value the default value is True ¬
 <!--ID: 1627430871821-->
 
+![[Pasted image 20210727203240.png]] syntax to this lookup #flashcard 
+=VLOOKUP(45856827,lookup,3,FALSE)
+=VLOOKUP(45856827,lookup,2,FALSE)
+False because it is not in order 
+<!--ID: 1627432414295-->
+
+
 
