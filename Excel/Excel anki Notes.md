@@ -137,4 +137,6 @@ what does the increment function in the look_up do?
 - It gives you the number below from the lookup. In this case if it did you did not input the number it will return the number above since its hlookup function. 
 <!--ID: 1627434927251-->
 
+Index syntax #flashcard 
+IN
 
