@@ -132,5 +132,9 @@ What to do when the column is not in ascending order when using the vlookup- #fl
 False because it is not in order 
 <!--ID: 1627432414295-->
 
+![[Pasted image 20210727211036.png]] #flashcard 
+what does the increment function in the look_up do?
+- It gives you the number below from the lookup. In this case if it did you did not input the number it will return the number above since its hlookup function. 
+<!--ID: 1627434927251-->
 
 
