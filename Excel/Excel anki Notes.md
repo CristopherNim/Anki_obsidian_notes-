@@ -119,4 +119,11 @@ If the value is set to false, and the value is not an exact match in the column 
 ![[Pasted image 20210727194822.png]]
 <!--ID: 1627429703534-->
 
+What to do when the column is not in ascending order when using the vlookup- #flashcard 
+![[Pasted image 20210727195446.png]]
+# in the picture the ID has two different answer. The bottom one is right 
+![[Pasted image 20210727200750.png]]
+# when you omit the fourth value the default value is True ¬
+<!--ID: 1627430871821-->
+
 
