@@ -138,5 +138,8 @@ what does the increment function in the look_up do?
 <!--ID: 1627434927251-->
 
 Index syntax #flashcard 
-IN
+INDEX(array, row_number, column number)
+INDEX(A1:D12, 2, 3)
+<!--ID: 1627440896351-->
+
 
