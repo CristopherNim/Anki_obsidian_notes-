@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Excel/Excel anki Notes.md",
+            "file": "Book Reviews/Untitled.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excel/Excel anki Notes.md",
+                "file": "Book Reviews/Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excel/Excel anki Notes.md"
+                "file": "Book Reviews/Untitled.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
+    "Book Reviews/Untitled.md",
+    "Amazon/AMAZON PRINCIPLES.md",
+    "Untitled.md",
     "Excel/Excel anki Notes.md",
     "ML/ML ANKI.md",
     "SQL/SQL ANKI.md",
     "HTML/HTML ANKI.md",
-    "Untitled.md",
     "Why Amazon.md",
     "FIU Project.md",
-    "AMAZON PRINCIPLES.md",
-    "Scipy_Lectures/Scipy Lectures.md",
-    "Flask/ANKI  FLASK.md"
+    "AMAZON PRINCIPLES.md"
   ]
 }
