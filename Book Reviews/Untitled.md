@@ -31,7 +31,6 @@ Our brains are wired to find meaning in life no matter how hard the road to get 
 
 **Tell the truth, or at least don’t lie** #flashcard 
 Corrupting your own perceptions with lies leads directly to a world of chaos where you cannot rely on yourself or your judgments.
-<!--ID: 1634132791970-->
 
 **Assume the person you’re listening to knows something you don’t** #flashcard 
 Living life constantly searching for knowledge from others can only help you achieve a life of meaning.
@@ -42,7 +41,7 @@ The more exact you are about who you want to be and what you want, the more like
 <!--ID: 1634132844122-->
 
 **Don’t bother children when they’re skateboarding** #flashcard 
-Encourage your children to take measured risks as a way to practice confronting the chaos of life instead of overprotecting them and hiding from the chaos.
+Encourage your children to take measured risks as a way to practice confronting the chaos of life instead of overprotecting them and hiding from  the chaos.
 <!--ID: 1634132865368-->
 
   **Pet a cat when you encounter one on the street** #flashcard 
