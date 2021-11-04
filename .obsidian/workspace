@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Book Reviews/Untitled.md",
+            "file": "Book Reviews/Unfuck your mind.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Book Reviews/Untitled.md",
+                "file": "Book Reviews/Unfuck your mind.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Book Reviews/Untitled.md"
+                "file": "Book Reviews/Unfuck your mind.md"
               }
             }
           }
@@ -126,15 +126,15 @@
   },
   "active": "3d07e48e9507fa52",
   "lastOpenFiles": [
-    "Book Reviews/Untitled.md",
-    "Excel/Excel anki Notes.md",
-    "Amazon/AMAZON PRINCIPLES.md",
+    "Book Reviews/Unfuck your mind.md",
+    "Book Reviews/12 Rules of Life.md",
     "Untitled.md",
+    "Excel/Excel anki Notes.md",
+    "Book Reviews/Untitled.md",
+    "Amazon/AMAZON PRINCIPLES.md",
     "ML/ML ANKI.md",
     "SQL/SQL ANKI.md",
     "HTML/HTML ANKI.md",
-    "Why Amazon.md",
-    "FIU Project.md",
-    "AMAZON PRINCIPLES.md"
+    "Why Amazon.md"
   ]
 }

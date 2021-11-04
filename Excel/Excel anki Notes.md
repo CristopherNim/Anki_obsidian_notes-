@@ -142,4 +142,8 @@ INDEX(array, row_number, column number)
 INDEX(A1:D12, 2, 3)
 <!--ID: 1627440896351-->
 
+Explain why is it important to lock columns and rows separately in #flashcard 
+The most important to know is that when you lock a column it can still go down if it has values below. when locking the row it locks the row and not the column. If you sum the values in horizontal with the mouse it will grab the next row if it is not lock. 
+https://edu.gcfglobal.org/en/excel2016/relative-and-absolute-cell-references/1/
+<!--ID: 1634160231099-->
 
