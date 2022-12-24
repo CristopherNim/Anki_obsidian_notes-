@@ -14,5 +14,7 @@
   "vimMode": false,
   "showUnsupportedFiles": true,
   "tabSize": 6,
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
