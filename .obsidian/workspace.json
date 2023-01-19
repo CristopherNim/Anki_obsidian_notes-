@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "4db27a5fb57c9e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "950e87900631be8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d07e48e9507fa52",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230118205615.png"
+              }
+            }
+          },
+          {
+            "id": "23173734bbdcf5fd",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20230118205615.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c69a83cdc203866",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2790337e9479f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4531c54a957eed0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "272bb4c6285c574b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#flashcard",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208
+  },
+  "right": {
+    "id": "4ef8ddd9a638618e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf26bf19f52431d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906af340dd86c42e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20230118205615.png",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6c37a9a1fa0d144f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afbd6d560a35ab5c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20230118205615.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "3d07e48e9507fa52",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Book Reviews/Unfuck your mind.md",
+    "Pasted image 20230118205615.png",
+    "Book Reviews/12 Rules of Life.md",
+    "Excel/Excel anki Notes.md",
+    "Book Reviews/Untitled.md",
+    "Amazon/AMAZON PRINCIPLES.md",
+    "ML/ML ANKI.md",
+    "SQL/SQL ANKI.md",
+    "HTML/HTML ANKI.md"
+  ]
+}

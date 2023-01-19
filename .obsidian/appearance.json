@@ -2,5 +2,6 @@
   "theme": "moonstone",
   "translucency": false,
   "cssTheme": "Pink Topaz",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "accentColor": ""
 }

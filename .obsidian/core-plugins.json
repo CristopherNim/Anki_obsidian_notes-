@@ -3,6 +3,7 @@
   "global-search",
   "switcher",
   "backlink",
+  "canvas",
   "tag-pane",
   "page-preview",
   "daily-notes",
@@ -11,7 +12,6 @@
   "outline",
   "slides",
   "audio-recorder",
-  "open-with-default-app",
   "file-recovery",
   "sync"
 ]
