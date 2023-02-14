@@ -4,30 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "950e87900631be8a",
+        "id": "e2ec6fd64a55fda2",
         "type": "tabs",
         "children": [
           {
-            "id": "3d07e48e9507fa52",
+            "id": "07a7b5096fa66600",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230118205615.png"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
           {
-            "id": "23173734bbdcf5fd",
+            "id": "4c150a33018e67e9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20230118205615.png"
+                "file": "ATT prices.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20230118205615.png",
+                "file": "ATT prices.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20230118205615.png"
+                "file": "ATT prices.md"
               }
             }
           }
@@ -135,11 +140,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3d07e48e9507fa52",
+  "active": "4c150a33018e67e9",
   "lastOpenFiles": [
     "Untitled.md",
-    "Book Reviews/Unfuck your mind.md",
     "Pasted image 20230118205615.png",
+    "Book Reviews/Unfuck your mind.md",
     "Book Reviews/12 Rules of Life.md",
     "Excel/Excel anki Notes.md",
     "Book Reviews/Untitled.md",
