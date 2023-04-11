@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c6a3f15b7cf1816c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +150,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4c150a33018e67e9",
+  "active": "c6a3f15b7cf1816c",
   "lastOpenFiles": [
     "Untitled.md",
     "Pasted image 20230118205615.png",
