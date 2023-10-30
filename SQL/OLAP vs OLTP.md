@@ -1,0 +1,2 @@
+OLTP AND OLAP
+![[Pasted image 20210220203939.png]]

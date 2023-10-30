@@ -1,0 +1,124 @@
+{
+  "main": {
+    "id": "4db27a5fb57c9e13",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd78e8b7db2d02e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Amazon Interview.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c69a83cdc203866",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2790337e9479f65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4531c54a957eed0b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "272bb4c6285c574b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 158
+  },
+  "right": {
+    "id": "4ef8ddd9a638618e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdf26bf19f52431d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906af340dd86c42e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Amazon Interview.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0864350e0ad6d7d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Amazon Interview.md"
+              }
+            }
+          },
+          {
+            "id": "6c37a9a1fa0d144f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd78e8b7db2d02e5",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Blogs/What I am throwing away by being lazy.md",
+    "Blogs/why porn is bad.md",
+    "Blogs/Untitled 1.md",
+    "Blogs/Untitled.md",
+    "Blogs/Developing good habits.md",
+    "Blogs/2021-03-15.md",
+    "Blogs/random thoughts 2021-03-08.md",
+    "Blogs/2021-03-02.md",
+    "2021-03-15.md"
+  ]
+}

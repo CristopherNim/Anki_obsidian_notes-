@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "36c698bbad0e6fa9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6290c0e9f9c02766",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "OLAP vs OLTP.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf796b06c2d4e7be",
+    "type": "split",
+    "children": [
+      {
+        "id": "188f3e864175e2ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4be40e1245fe5be8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ebba57e797f7c84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fcd98ccb4fd9699b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5269aae0329d6b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd33188984aef215",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OLAP vs OLTP.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "OLAP vs OLTP.md",
+    "ACID.md",
+    "Untitled.md"
+  ]
+}
