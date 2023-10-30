@@ -19,14 +19,18 @@ What is my mission? to prove to everyone that I’m incredible and to be the bes
 		- Fly them out to see me.
 	- Learn excel and tableau 
 		- developed a plan for both classes
-	- Get that 6 pack. 
+	- Get that 6 pack.= 
 		- Develop a plan for working out
 		- The main thing is waking up early to workout
 	- I want to stop watching Porn 
 		- I need to block my phone and computer 3 hours before going to sleep
-	- Waiting to delete instagram
+	- Waiting to delete Instagram
 		- Just waiting it out. 
-		- Make sure I do not redownloaded for now
+		- Make sure I do not redownload for now.
+	- Stop looking at YouTube. 
+		- Block it on the computer unless to study 
+		- block on the phone 
+		- Be honest about what I want to do with my life 
 
 Community mission: a boy from Guatemala can achieve what I can and that my dad and mom sacrifice to success was worth it. Ask the 5 whys
 
